@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Pet Listing App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn RestAPI and prop Handling by building an app.",
+    "skills": ["React", "Hooks", "Tailwind"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ankushchimote/Pet"
+  },
+  {
+    "title": "News App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the Bootstrap, Hooks and Props handling by building an app.",
+    "skills": ["React", "Bootstrap", "RestAPI", "Hooks"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ankushchimote/news"
+  },
+  {
+    "title": "Todo-list",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn Redux by building an app.",
+    "skills": ["React", "Redux", "Hooks"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ankushchimote/rtkTodo"
+  }
+]
