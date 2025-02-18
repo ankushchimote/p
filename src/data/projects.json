@@ -1,5 +1,13 @@
 [
   {
+    "title": "Online Exam Portal",
+    "imageSrc": "projects/project.png",
+    "description": "Built this project using React for Frontend and Springboot for Backend",
+    "skills": ["React", "Hooks", "Tailwind","Java", "Springboot", "SQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ankushchimote/Online-Exam-Portal"
+  },
+  {
     "title": "Pet Listing App",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn RestAPI and prop Handling by building an app.",
