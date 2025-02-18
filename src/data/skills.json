@@ -20,6 +20,14 @@
     "imageSrc": "skills/js.png"
   },
   {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Springboot",
+    "imageSrc": "skills/springboot.png"
+  },
+  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
