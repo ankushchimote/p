@@ -38,7 +38,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have basic knowledge of Java, C, C++, OOP and DSA.
+                I have built project using Java and Springboot and have knowledge of C, C++, C#, OOP and DSA.
               </p>
             </div>
           </li>
