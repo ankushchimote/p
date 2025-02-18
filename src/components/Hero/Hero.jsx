@@ -9,8 +9,8 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Rahul</h1>
         <p className={styles.description}>
-          I'm a frontend developer with 2 years of experience in React and
-          NodeJS. Currently looking for opportunity to kickstart my career.
+          I'm a FullStack developer with expertise in React,Springboot and MERN
+          . Currently looking for opportunity to kickstart my career.
         </p>
         <a href="mailto:rahulchimote2001@gmail.com" className={styles.contactBtn}>
           Contact Me
