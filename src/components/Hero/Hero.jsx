@@ -4,7 +4,7 @@ import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
   const handleDownload = () => {
-    const resumeUrl = "../../assets/Rahul_FullStack.pdf"; // Ensure resume.pdf is in the public folder
+    const resumeUrl = "./Rahul_FullStack.pdf"; // Ensure resume.pdf is in the public folder
     const link = document.createElement("a");
     link.href = resumeUrl;
     link.download = "Rahul_Chimote_Resume.pdf"; // Custom filename
